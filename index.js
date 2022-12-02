@@ -1,7 +1,18 @@
 // JAVASCRIPT CODE ARE HERE FOR PAGE INTERACTION
 
-let Like = document.getElementById("like")
+const likeOne = document.getElementById("heart-el")
+const likeTwo = document.getElementById("heart2-el")
+const likeThree = document.getElementById("heart3-el")
+let like = document.getElementById("like-el")
 
-Like.addEventListener("click", function(){
-    Like.innerHTML = "<img src='/images/heart.png' >"
+likeOne.addEventListener("click", function(){
+    
+})
+
+likeTwo.addEventListener("click", function() {
+    
+})
+
+likeThree.addEventListener("click", function(){
+
 })

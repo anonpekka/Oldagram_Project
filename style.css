@@ -99,6 +99,11 @@ header img
     margin-left: 15px;
 
 }
+
+.body img 
+{
+    cursor: pointer;
+}
 .post-img 
 {
     width: 500px;
@@ -131,6 +136,8 @@ h4 span
     font-weight: bold;
     font-size: 15px;
 }
+
+/* anger tag */
 
 a 
 {
